@@ -1,9 +1,9 @@
 
-<div style="align-content: center">
+<div>
 
-    <h1 style="text-align: center">Hello I'm Javier Palacios</h1>
+    <h1>Hello I'm Javier Palacios</h1>
 
-    
+        
 
     ### ⚙️ &nbsp;GitHub Analytics
 
