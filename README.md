@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <td width="50%">
 <h3 align="center">Pacman using Java Swing and graph theory using Dikjstra's algorithm</h3>
 <div align="center">
-<a href="https://github.com/JavierAPalaciosL/Pacman-with-dijkstra-s-algorithm" target="_blank"><img src="images/img.png" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/JavierAPalaciosL/Pacman-with-dijkstra-s-algorithm" target="_blank"><img src="images/img.png" width="400" alt=""></a>
 <p>
 <a href="https://github.com/JavierAPalaciosL/Pacman-with-dijkstra-s-algorithm" target="_blank">
 <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -46,7 +46,22 @@ Here are some ideas to get you started:
 </p>
 <p>Java swing using <strong>Theory graphs</strong> - <strong>Algorithms</strong>.</p>
 </div>
+</td>
 
+
+<tr>
+<td width="50%">
+<h3 align="center">Morse code using java swing and binary tree</h3>
+<div align="center">
+<a href="https://github.com/JavierAPalaciosL/CodigoMorse-rbolGeneral" target="_blank"><img src="images/img_1.png" width="400" alt=""></a>
+<p>
+<a href="https://github.com/JavierAPalaciosL/CodigoMorse-rbolGeneral" target="_blank">
+<img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</p>
+<p>Java swing using <strong>Binary tree</strong> - <strong>Algorithms</strong>.</p>
+</div>
 </td>
 
 </table>
