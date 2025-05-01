@@ -17,6 +17,8 @@ Here are some ideas to get you started:
     <h1 align="center">I'm Javier Palacios</h1>
 </div>
 
+<img src="images/mycat.jpg" width="720">
+
 
 ## About me
 
