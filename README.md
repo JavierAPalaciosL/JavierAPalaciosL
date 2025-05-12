@@ -80,6 +80,27 @@ Here are some ideas to get you started:
 </div>
 <p>This project use an API with Spring Boot and React with spring boot the api radio garden is consummed with RESTTEMPLATE and given to the frontend with JS and React for the design i use antd  https://ant.design/ and besides use a less css for move the components of antd</p>
 </td>
+
+<td width="50%">
+      <h3 align="center">Compiler</h3>
+      <div align="center">
+        <a href="https://github.com/JavierAPalaciosL/Compiler" target="_blank"><img src="images/img_3.png" width="400" height="300" alt=""></a>
+        <p>
+          <a href="https://github.com/JavierAPalaciosL/Compiler" target="_blank">
+            <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+Built a custom C-style language compiler using JavaCC and Java to parse source code, then emitted Intel-syntax x86-64 assembly and assembled it with NASM and GCC into a native executable. Explored grammar design, semantic actions, and low-level code generation in a single end-to-end pipeline.
+</p>
+      </div>
+    </td>
+
+
+
+
   </tr>
+
+
 
 </table>
