@@ -7,7 +7,7 @@
 
 ---
 
-### My projects
+# My projects
 
 # Pacman using Java Swing and graph theory using Dijkstra's algorithm
 
