@@ -1,6 +1,4 @@
-# I'm Javier Palacios
-
-## About me
+# About me
 
 1.  ⭐ Engineer System Computer ⭐
 2.  📲 Backend Developer with framework spring boot Java and SQL
