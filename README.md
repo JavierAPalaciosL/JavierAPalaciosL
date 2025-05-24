@@ -2,15 +2,10 @@
 
 ## About me
 
-----
-
-- ⭐ Engineer System Computer ⭐
-
-- 📲 Backend Developer with framework spring boot Java and SQL
-
-- 🧑‍🏫 Skills in data structure and algorithms
-
-- ✏️ Development frontend with framework React and JavaScript vanilla
+1.  ⭐ Engineer System Computer ⭐
+2.  📲 Backend Developer with framework spring boot Java and SQL
+3.  🧑‍🏫 Skills in data structure and algorithms
+4.  ✏️ Development frontend with framework React and JavaScript vanilla
 
 ---
 
