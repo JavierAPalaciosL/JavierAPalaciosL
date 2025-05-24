@@ -1,106 +1,63 @@
-<!--
-**JavierAPalaciosL/JavierAPalaciosL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div align="center">
-    <h1 align="center">I'm Javier Palacios</h1>
-</div>
 
 
+# I'm Javier Palacios
+
+---
 
 ## About me
 
+----
+
 - ⭐ Engineer System Computer ⭐
+
 - 📲 Backend Developer with framework spring boot Java and SQL
+
 - 🧑‍🏫 Skills in data structure and algorithms
+
 - ✏️ Development frontend with framework React and JavaScript vanilla
-  <br>
 
-## My projects
+---
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Pacman using Java Swing and graph theory using Dijkstra's algorithm</h3>
-      <div align="center">
-        <a href="https://github.com/JavierAPalaciosL/Pacman-with-dijkstra-s-algorithm" target="_blank"><img src="images/img.png" width="400" height="300" alt=""></a>
-        <p>
-          <a href="https://github.com/JavierAPalaciosL/Pacman-with-dijkstra-s-algorithm" target="_blank">
-            <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-          <a href="https://www.youtube.com/watch?v=KiP_vDexrXQ" target="_blank">
-            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-          </a>
-        </p>
-        <p>Java Swing using <strong>Theory graphs</strong> - <strong>Algorithms</strong>.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Morse code using Java Swing and binary tree</h3>
-      <div align="center">
-        <a href="https://github.com/JavierAPalaciosL/CodigoMorse-rbolGeneral" target="_blank"><img src="images/img_1.png" width="400" height="300" alt=""></a>
-        <p>
-          <a href="https://github.com/JavierAPalaciosL/CodigoMorse-rbolGeneral" target="_blank">
-            <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-        </p>
-        <p>Java Swing using <strong>Binary tree</strong> - <strong>Algorithms</strong>.</p>
-      </div>
-    </td>
-  </tr>
+### My projects
 
-  <tr>
-    <td width="50%">
-      <h3 align="center">React and Spring Boot App consumming an API</h3>
-    <div align="center">
-      <a href="https://github.com/JavierAPalaciosL/reactfrontendradio" target="_blank"><img src="images/frontendReactSPring.png" width="400" height="300" alt="">
-</a>
+#### Pacman using Java Swing and graph theory using Dijkstra's algorithm
 
-<a href="https://github.com/JavierAPalaciosL/reactfrontendradio?tab=readme-ov-file">
- <img src="https://img.shields.io/badge/Code frontend JSREACT-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img title="" src="images/img.png" alt="" data-align="center" width="706">
 
-</a>
+- If you want see my code visit           :  [Code]([GitHub - JavierAPalaciosL/Pacman-with-dijkstra-s-algorithm](https://github.com/JavierAPalaciosL/Pacman-with-dijkstra-s-algorithm))
 
-<a href="https://github.com/JavierAPalaciosL/springbootbackendradio">
-<img src="https://img.shields.io/badge/Code backend Spring boot-ff9?style=for-the-badge&logo=github&logoColor=black">
+- If you want see my youtube video  :  [Video]([dijkstra en Pacman - YouTube](https://www.youtube.com/watch?v=KiP_vDexrXQ&ab_channel=javierpalacios))
 
-</a>
+*I use Java Swing using Theory graphs* - Algorithms
 
-</div>
-<p>This project use an API with Spring Boot and React with spring boot the api radio garden is consummed with RESTTEMPLATE and given to the frontend with JS and React for the design i use antd  https://ant.design/ and besides use a less css for move the components of antd</p>
-</td>
+### Compiler with a custom Language Compiler using JavaCC and x86-64 Assembly
 
-<td width="50%">
-      <h3 align="center">Compiler</h3>
-      <div align="center">
-        <a href="https://github.com/JavierAPalaciosL/Compiler" target="_blank"><img src="images/img_3.png" width="400" height="300" alt=""></a>
-        <p>
-          <a href="https://github.com/JavierAPalaciosL/Compiler" target="_blank">
-            <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-        </p>
-        <p>
-Built a custom C-style language compiler using JavaCC and Java to parse source code, then emitted Intel-syntax x86-64 assembly and assembled it with NASM and GCC into a native executable. Explored grammar design, semantic actions, and low-level code generation in a single end-to-end pipeline.
-</p>
-      </div>
-    </td>
+<img title="" src="images/img_2.png" alt="" width="470" data-align="center">
+
+- Code link [Link]([GitHub - JavierAPalaciosL/Compiler: The compiler was built in Java using JavaCC](https://github.com/JavierAPalaciosL/Compiler))
+
+*Built a custom C-style language compiler using JavaCC and Java to parse source code, then emitted Intel-syntax x86-64 assembly and assembled it with NASM and GCC into a native executable. Explored grammar design, semantic actions, and low-level code generation in a single end-to-end pipeline.*
 
 
 
+### React and Spring Boot App consumming an API
 
-  </tr>
+<img title="" src="images/frontendReactSPring.png" alt="" width="685" data-align="center">
+
+- Frontend JS and React [Code]([GitHub - JavierAPalaciosL/reactfrontendradio: React App](https://github.com/JavierAPalaciosL/reactfrontendradio?tab=readme-ov-file))
+
+- Backend Java Spring boot [Code]([GitHub - JavierAPalaciosL/springbootbackendradio: backend for the repository radio frontend](https://github.com/JavierAPalaciosL/springbootbackendradio))
+
+*This project use an API with Spring Boot and React with spring boot the api radio garden is consummed with RESTTEMPLATE and given to the frontend with JS and React for the design i use antd https://ant.design/ and besides use a less css for move the components of antd*
 
 
 
-</table>
+### Morse code
+
+![](images/img_1.png)
+
+- Java swing [Code]([GitHub - JavierAPalaciosL/CodigoMorse-rbolGeneral](https://github.com/JavierAPalaciosL/CodigoMorse-rbolGeneral))
+
+*Java Swing using Binary tree - Algorithms.*
+
+
