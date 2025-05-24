@@ -11,7 +11,7 @@
 
 ### My projects
 
-### Pacman using Java Swing and graph theory using Dijkstra's algorithm
+# Pacman using Java Swing and graph theory using Dijkstra's algorithm
 
 !["pacman"](images/img.png)
 
@@ -21,7 +21,7 @@
 
 *I use Java Swing using Theory graphs* - Algorithms
 
-### Compiler with a custom Language Compiler using JavaCC and x86-64 Assembly
+# Compiler with a custom Language Compiler using JavaCC and x86-64 Assembly
 
 ![Assembler](images/img_2.png)
 
@@ -29,7 +29,7 @@
 
 *Built a custom C-style language compiler using JavaCC and Java to parse source code, then emitted Intel-syntax x86-64 assembly and assembled it with NASM and GCC into a native executable. Explored grammar design, semantic actions, and low-level code generation in a single end-to-end pipeline.*
 
-### React and Spring Boot App consumming an API
+# React and Spring Boot App consumming an API
 
 !["frontendReactSPring"](images/frontendReactSPring.png)
 
@@ -38,7 +38,7 @@
 
 *This project use an API with Spring Boot and React with spring boot the api radio garden is consummed with RESTTEMPLATE and given to the frontend with JS and React for the design i use antd https://ant.design/ and besides use a less css for move the components of antd*
 
-### Morse code
+# Morse code
 
 ![](images/img_1.png)
 
