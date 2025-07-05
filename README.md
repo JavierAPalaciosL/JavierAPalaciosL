@@ -15,7 +15,7 @@ This system is built with Spring Boot, and later I will use Angular to build the
 
 #### This project is under active development
 
-<img title="" src="file:///home/javier/snap/marktext/9/.config/marktext/images/2025-07-05-01-23-07-image.png" alt="" data-align="center" width="576">
+![](images/imgRentalfast.png)
 
 ### if you want see my backend code visit: [Code](https://github.com/JavierAPalaciosL/RentalFast)
 
