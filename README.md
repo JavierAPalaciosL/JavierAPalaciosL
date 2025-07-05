@@ -11,7 +11,7 @@
 
 # Rental-Fast-Alpha: Hexagonal Architecture
 
-This system is built with Spring Boot, and later I will use Angular to build the frontend. I’m currently working on the backend with Spring Boot.
+This system is built with ***Spring Boot***, and later I will use ***Angular*** to build the frontend. I’m currently working on the backend with Spring Boot.
 
 #### This project is under active development
 
